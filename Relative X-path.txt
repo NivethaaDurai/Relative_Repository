@@ -13,7 +13,7 @@ Relative xpaths of guru login page
 11) //input[@name='confirmPassword']
 12) //input[@name='submit']
 
-     FACEBOOK
+     FACEBOOK{max}
 
 1)  //input[@name='firstname']
 2)  //input[@name='lastname']
