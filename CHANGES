@@ -1,5 +1,6 @@
  Relative X-path[GURU]
 Relative xpaths of guru login page
+DEMO FOR GITHUB
 1) //input[@name='firstName']
 2) //input[@name='lastName']
 3) //input[@name='phone']
